@@ -166,3 +166,5 @@ If you use this work, please cite:
 - [FlexiCubes](https://github.com/nv-tlabs/FlexiCubes)
 - [Instant3D](https://instant-3d.github.io/)
 
+
+Copyright 2025 [Bilkent DLR](https://dlr.bilkent.edu.tr/). Licensed under the Apache License, Version 2.0 (the "License").
