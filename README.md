@@ -18,6 +18,7 @@
 
 <a href="https://arxiv.org/abs/2504.21836"><img src="https://img.shields.io/badge/arXiv-2311.03335-b31b1b.svg" height=22.5></a>
 <a href="https://ipekoztas.github.io/3DStylizationLRM/"><img src="https://img.shields.io/static/v1?label=Project&message=Page&color=red" height=20.5></a>
+<a href="https://huggingface.co/spaces/ipekoztas/3DStylizationLRM"><img src="https://img.shields.io/badge/Hugging%20Face-Demo-blue?logo=huggingface" height="20.5"></a>
 
 ## Abstract
 
