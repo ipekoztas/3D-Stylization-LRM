@@ -155,6 +155,20 @@ If you use this work, please cite:
     journal={https://arxiv.org/abs/2504.21836},
     year={2025}
 }
+
+@inproceedings{10.1145/3721238.3730636,
+author = {Oztas, Ipek and Ceylan, Duygu and Dundar, Aysegul},
+title = {3D Stylization via Large Reconstruction Model},
+year = {2025},
+publisher = {Association for Computing Machinery},
+url = {https://doi.org/10.1145/3721238.3730636},
+doi = {10.1145/3721238.3730636},
+booktitle = {Proceedings of the Special Interest Group on Computer Graphics and Interactive Techniques Conference Conference Papers},
+articleno = {71},
+numpages = {11},
+series = {SIGGRAPH Conference Papers '25}
+}
+
 ```
 
 ---
