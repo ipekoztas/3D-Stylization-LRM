@@ -149,13 +149,6 @@ python run.py configs/instant-mesh-large.yaml examples/genshin_building.png --sa
 If you use this work, please cite:
 
 ```BibTeX
-@article{oztas20253dstylizationlargereconstruction,
-    title={3D Stylization via Large Reconstruction Model}, 
-    author={Ipek Oztas and Duygu Ceylan and Aysegul Dundar},
-    journal={https://arxiv.org/abs/2504.21836},
-    year={2025}
-}
-
 @inproceedings{10.1145/3721238.3730636,
 author = {Oztas, Ipek and Ceylan, Duygu and Dundar, Aysegul},
 title = {3D Stylization via Large Reconstruction Model},
